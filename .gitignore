@@ -1,0 +1,40 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other Python cache files
+*.pyo
+*.pyd
+*.whl
+
+# Config and secrets
+*.env
+*.ini
+*.cfg
+*.sqlite3
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Jupyter output
+output/
